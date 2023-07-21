@@ -11,4 +11,7 @@
       * [/status](README/api-documentation/winecellar/status.md)
       * [/cell](README/api-documentation/winecellar/cell.md)
       * [/setting](README/api-documentation/winecellar/setting.md)
-  * [Use Case](README/use-case.md)
+  * [Use Case](README/use-case/README.md)
+    * [Case 1: Insert new wine](README/use-case/case-1-insert-new-wine.md)
+    * [Case 2: Take out wine](README/use-case/case-2-take-out-wine.md)
+    * [Case 3: Reserve wine](README/use-case/case-3-reserve-wine.md)
