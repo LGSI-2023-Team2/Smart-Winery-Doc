@@ -4,7 +4,9 @@ description: APIs documentation
 
 # LGSI@2023 Documentation
 
-LGSI 2023
+<figure><img src=".gitbook/assets/webos.png" alt="" width="217"><figcaption></figcaption></figure>
+
+LG Soft India Internship 2023
 
 Team 2
 
